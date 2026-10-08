@@ -9,7 +9,7 @@ function Hero() {
         <p className="small-title">WELCOME TO MY PORTFOLIO</p>
 
         <h1>
-          Hi, I'm <span>Your Name</span>
+          Hi, I'm <span>Pritam Mondal</span>
         </h1>
 
         <h2>Frontend Developer</h2>
